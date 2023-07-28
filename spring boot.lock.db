@@ -1,0 +1,6 @@
+#FileLock
+#Fri Jul 28 20:06:21 SAST 2023
+hostName=BSOAN.home
+id=1899dae167263febf18f57dbb7b2731a386ffc354e3
+method=file
+server=192.168.1.72\:58122
